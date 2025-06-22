@@ -9,9 +9,9 @@ ENGLISH NAME：Grand Theft Auto: San Andreas
 游戏平台：PC
 发售时间：2004年10月26日
 官方网站：https://www.rockstargames.com/games/sanandreas
-
+提供者QQ:1323259440
 下载地址
-网盘下载：https://game.aoe.top/GTA3/GTASA
+github:https://github.com/nameefef/San-dreas-wuminTSL-
 
 汉化：
 无名汉化组 http://www.wmhhz.com
